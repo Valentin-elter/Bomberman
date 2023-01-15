@@ -1,18 +1,18 @@
 # Bomberman
 
-Second year study project, a cross platform 3D bomberman-like made with raylib (Windows/linux).
+A second-year student project, a cross-platform 3D bomberman-like game developed using the raylib library, compatible with Windows and Linux operating systems.
 
 ## Features
 
-All the mechanics of a classic Bomberman
-Saves management
-competitive A.I.
-local multiplayer
-Cross Plateform (Windows/Linux)
+* Incorporates all the mechanics of a classic Bomberman game  
+* Includes a save management system  
+* Features competitive AI opponents  
+* Offers local multiplayer functionality  
+* Compatible with both Windows and Linux operating systems  
 
 ## Build with linux (ubuntu)
 
-Realised with Raylib 3.7.0
+Built with Raylib 3.7.0
 
 ### 1. Install required libraries and tools:
 
@@ -20,7 +20,7 @@ Realised with Raylib 3.7.0
     sudo apt install cmake
     sudo apt install libasound2-dev mesa-common-dev libx11-dev libxrandr-dev libxi-dev xorg-dev libgl1-mesa-dev libglu1-mesa-dev
 
-### 2. Download the Rqylib source code and extract it:
+### 2. Download the Raylib source code and extract it:
 	https://github.com/raysan5/raylib/releases/tag/3.7.0
 
 ### 3. Build and install Raylib:
